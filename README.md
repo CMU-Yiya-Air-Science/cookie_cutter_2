@@ -6,6 +6,10 @@
 
 another cookie cutter data science test
 
+## Project Collaborators
+Samyukta Athreya
+
+
 ## Project Organization
 
 ```
