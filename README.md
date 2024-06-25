@@ -5,7 +5,7 @@
 </a>
 
 ## Project Information
-This project is a second test of the cookie cutter data science package. Cookie cutter data science is a template for large-scale data science projects which we are using to provide organization to our work analyzing data from the Yiya Air Science's Interactive Radio Instructive course. Through cookie cutter data science, we hope to create an easily accessible and reproducible project. 
+Cookie cutter data science is a template for large-scale data science projects which we are using to provide organization to our work analyzing data from the Yiya Air Science's Interactive Radio Instructive course. Through cookie cutter data science, we hope to create an easily accessible and reproducible project. 
 
 ## Project Collaborators
 Samyukta Athreya
