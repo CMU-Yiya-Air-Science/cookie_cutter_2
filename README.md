@@ -4,11 +4,16 @@
     <img src="https://img.shields.io/badge/CCDS-Project%20template-328F97?logo=cookiecutter" />
 </a>
 
-another cookie cutter data science test
+## Project Information
+This project is a second test of the cookie cutter data science package. Cookie cutter data science is a template for large-scale data science projects which we are using to provide organization to our work analyzing data from the Yiya Air Science's Interactive Radio Instructive course. Through cookie cutter data science, we hope to create an easily accessible and reproducible project. 
 
 ## Project Collaborators
 Samyukta Athreya
 
+## Installation Instructions
+1. Describe what needs to be installed with and without make
+2. How to use Make to create a conda environment
+3. etc... to be added
 
 ## Project Organization
 
