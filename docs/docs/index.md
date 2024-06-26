@@ -1,4 +1,4 @@
-# cookie_cutter_2 documentation!
+# modeling_learner_behavior documentation!
 
 ## Description
 
