@@ -2,7 +2,7 @@
 # GLOBALS                                                                       #
 #################################################################################
 
-PROJECT_NAME = cookie_cutter_2
+PROJECT_NAME = modeling_learner_behavior
 PYTHON_VERSION = 3.10
 PYTHON_INTERPRETER = python
 
@@ -29,14 +29,14 @@ clean:
 ## Lint using flake8 and black (use `make format` to do formatting)
 .PHONY: lint
 lint:
-	flake8 cookie_cutter_2
-	isort --check --diff --profile black cookie_cutter_2
-	black --check --config pyproject.toml cookie_cutter_2
+	flake8 modeling_learner_behavior
+	isort --check --diff --profile black modeling_learner_behavior
+	black --check --config pyproject.toml modeling_learner_behavior
 
 ## Format source code with black
 .PHONY: format
 format:
-	black --config pyproject.toml cookie_cutter_2
+	black --config pyproject.toml modeling_learner_behavior
 
 
 
@@ -60,7 +60,7 @@ create_environment:
 ## Make Dataset
 .PHONY: data
 data: requirements
-	$(PYTHON_INTERPRETER) cookie_cutter_2/data/make_dataset.py
+	$(PYTHON_INTERPRETER) modeling_learner_behavior/data/make_dataset.py
 
 
 #################################################################################

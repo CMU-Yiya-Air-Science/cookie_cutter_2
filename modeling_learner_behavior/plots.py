@@ -4,7 +4,7 @@ import typer
 from loguru import logger
 from tqdm import tqdm
 
-from cookie_cutter_2.config import FIGURES_DIR, PROCESSED_DATA_DIR
+from modeling_learner_behavior.config import FIGURES_DIR, PROCESSED_DATA_DIR
 
 app = typer.Typer()
 

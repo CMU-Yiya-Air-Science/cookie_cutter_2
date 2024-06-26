@@ -1,4 +1,4 @@
-# cookie_cutter_2
+# modeling_learner_behavior
 
 <a target="_blank" href="https://cookiecutter-data-science.drivendata.org/">
     <img src="https://img.shields.io/badge/CCDS-Project%20template-328F97?logo=cookiecutter" />
@@ -30,7 +30,7 @@ Samyukta Athreya
 │                         the creator's initials, and a short `-` delimited description, e.g.
 │                         `1.0-jqp-initial-data-exploration`.
 │
-├── pyproject.toml     <- Project configuration file with package metadata for cookie_cutter_2
+├── pyproject.toml     <- Project configuration file with package metadata for modeling_learner_behavior
 │                         and configuration for tools like black
 │
 ├── references         <- Data dictionaries, manuals, and all other explanatory materials.
@@ -43,9 +43,9 @@ Samyukta Athreya
 │
 ├── setup.cfg          <- Configuration file for flake8
 │
-└── cookie_cutter_2                <- Source code for use in this project.
+└── modeling_learner_behavior                <- Source code for use in this project.
     │
-    ├── __init__.py    <- Makes cookie_cutter_2 a Python module
+    ├── __init__.py    <- Makes modeling_learner_behavior a Python module
     │
     ├── data           <- Scripts to download or generate data
     │   └── make_dataset.py
