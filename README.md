@@ -4,13 +4,19 @@
     <img src="https://img.shields.io/badge/CCDS-Project%20template-328F97?logo=cookiecutter" />
 </a>
 
-another cookie cutter data science test
+## Project Information
+Cookie cutter data science is a template for large-scale data science projects which we are using to provide organization to our work analyzing data from the Yiya Air Science's Interactive Radio Instructive course. Through cookie cutter data science, we hope to create an easily accessible and reproducible project. 
 
 ## Project Collaborators
 Samyukta Athreya
 
+## Software and Platform
 
-## Project Organization
+The software used for this project included Visual Studio Code and Python [version number needed]. 
+Additional packages which need to be installed include the Visual Studio Code Python extension. 
+Windows and Mac were both used for development of this project. 
+
+## Map of Documentation
 
 ```
 ├── LICENSE            <- Open-source license if one is chosen
@@ -63,4 +69,12 @@ Samyukta Athreya
 ```
 
 --------
+## Installation Instructions
+1. Enter in the VS code terminal: 
+To create a virtual environment: ```python -m venv .venv```
+To install the required Python libraries: ```make requirements```
+
+Remember to select the created environment in your IDE. 
+
+2. etc... to be added
 
